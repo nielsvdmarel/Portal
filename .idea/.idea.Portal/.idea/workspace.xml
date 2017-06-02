@@ -62,7 +62,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PortalCamera.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="PortalCamera.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/PortalCamera.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
@@ -72,41 +72,6 @@
                 <marker date="1496394077589" expanded="true" signature="88:1176" ph="{...}" />
                 <marker date="1496394077589" expanded="true" signature="251:257" ph="{...}" />
                 <marker date="1496394077589" expanded="true" signature="373:1174" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.shader" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/3dmodels/test.shader">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StandaloneInput.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/StandaloneInput.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding>
-                <marker date="1449449019000" expanded="false" signature="6:32" ph="..." />
-                <marker date="1449449019000" expanded="true" signature="99:2262" ph="{...}" />
-                <marker date="1449449019000" expanded="true" signature="149:2260" ph="{...}" />
-                <marker date="1449449019000" expanded="true" signature="216:307" ph="{...}" />
-                <marker date="1449449019000" expanded="true" signature="361:423" ph="{...}" />
-                <marker date="1449449019000" expanded="true" signature="481:547" ph="{...}" />
-                <marker date="1449449019000" expanded="true" signature="603:667" ph="{...}" />
-                <marker date="1449449019000" expanded="true" signature="725:912" ph="{...}" />
-                <marker date="1449449019000" expanded="true" signature="968:1155" ph="{...}" />
-                <marker date="1449449019000" expanded="true" signature="1215:1402" ph="{...}" />
-                <marker date="1449449019000" expanded="true" signature="1462:1649" ph="{...}" />
-                <marker date="1449449019000" expanded="true" signature="1705:1892" ph="{...}" />
-                <marker date="1449449019000" expanded="true" signature="1957:2144" ph="{...}" />
-                <marker date="1449449019000" expanded="true" signature="2194:2254" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -123,7 +88,6 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Sender.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TextureSetup.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PortalCamera.cs" />
-        <option value="$PROJECT_DIR$/Assets/3dmodels/test.shader" />
       </list>
     </option>
   </component>
@@ -288,12 +252,12 @@
       <workItem from="1496178909491" duration="1367000" />
       <workItem from="1496241859847" duration="2094000" />
       <workItem from="1496245403807" duration="3023000" />
-      <workItem from="1496394184804" duration="1439000" />
+      <workItem from="1496394184804" duration="127000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16743000" />
+    <option name="totallyTimeSpent" value="15431000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -369,6 +333,40 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Sender.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TextureSetup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2622">
+          <caret line="138" column="57" lean-forward="false" selection-start-line="138" selection-start-column="57" selection-end-line="138" selection-end-column="57" />
+          <folding>
+            <marker date="1496394088561" expanded="true" signature="6:100" ph="..." />
+            <marker date="1496394088561" expanded="true" signature="144:4759" ph="{...}" />
+            <marker date="1496394088561" expanded="true" signature="1129:4756" ph="{...}" />
+            <marker date="1496394088561" expanded="true" signature="1178:1243" ph="{...}" />
+            <marker date="1496394088561" expanded="true" signature="1427:1492" ph="{...}" />
+            <marker date="1496394088561" expanded="true" signature="1684:1749" ph="{...}" />
+            <marker date="1496394088561" expanded="true" signature="1941:2006" ph="{...}" />
+            <marker date="1496394088561" expanded="true" signature="2198:2264" ph="{...}" />
+            <marker date="1496394088561" expanded="true" signature="2462:2527" ph="{...}" />
+            <marker date="1496394088561" expanded="true" signature="2719:2784" ph="{...}" />
+            <marker date="1496394088561" expanded="true" signature="2976:3041" ph="{...}" />
+            <marker date="1496394088561" expanded="true" signature="3233:3298" ph="{...}" />
+            <marker date="1496394088561" expanded="true" signature="3491:3557" ph="{...}" />
+            <marker date="1496394088561" expanded="true" signature="3753:3819" ph="{...}" />
+            <marker date="1496394088561" expanded="true" signature="4015:4081" ph="{...}" />
+            <marker date="1496394088561" expanded="true" signature="4277:4343" ph="{...}" />
+            <marker date="1496394088561" expanded="true" signature="4539:4605" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/PortalCamera.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -997,6 +995,19 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/NewImageEffectShader.shader" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PortalCamera.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <marker date="1496394077589" expanded="true" signature="6:44" ph="..." />
+            <marker date="1496394077589" expanded="true" signature="88:1176" ph="{...}" />
+            <marker date="1496394077589" expanded="true" signature="251:257" ph="{...}" />
+            <marker date="1496394077589" expanded="true" signature="373:1174" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/TextureSetup.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2622">
@@ -1020,50 +1031,6 @@
             <marker date="1496394088561" expanded="true" signature="4277:4343" ph="{...}" />
             <marker date="1496394088561" expanded="true" signature="4539:4605" ph="{...}" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/StandaloneInput.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <marker date="1449449019000" expanded="false" signature="6:32" ph="..." />
-            <marker date="1449449019000" expanded="true" signature="99:2262" ph="{...}" />
-            <marker date="1449449019000" expanded="true" signature="149:2260" ph="{...}" />
-            <marker date="1449449019000" expanded="true" signature="216:307" ph="{...}" />
-            <marker date="1449449019000" expanded="true" signature="361:423" ph="{...}" />
-            <marker date="1449449019000" expanded="true" signature="481:547" ph="{...}" />
-            <marker date="1449449019000" expanded="true" signature="603:667" ph="{...}" />
-            <marker date="1449449019000" expanded="true" signature="725:912" ph="{...}" />
-            <marker date="1449449019000" expanded="true" signature="968:1155" ph="{...}" />
-            <marker date="1449449019000" expanded="true" signature="1215:1402" ph="{...}" />
-            <marker date="1449449019000" expanded="true" signature="1462:1649" ph="{...}" />
-            <marker date="1449449019000" expanded="true" signature="1705:1892" ph="{...}" />
-            <marker date="1449449019000" expanded="true" signature="1957:2144" ph="{...}" />
-            <marker date="1449449019000" expanded="true" signature="2194:2254" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PortalCamera.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <marker date="1496394077589" expanded="true" signature="6:44" ph="..." />
-            <marker date="1496394077589" expanded="true" signature="88:1176" ph="{...}" />
-            <marker date="1496394077589" expanded="true" signature="251:257" ph="{...}" />
-            <marker date="1496394077589" expanded="true" signature="373:1174" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/3dmodels/test.shader">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
