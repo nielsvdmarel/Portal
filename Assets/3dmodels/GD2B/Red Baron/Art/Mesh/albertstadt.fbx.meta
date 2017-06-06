@@ -1,0 +1,269 @@
+fileFormatVersion: 2
+guid: 26f87605f325a4943987a8fc33a3f40a
+timeCreated: 1492507872
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: back_hight_steer
+    100004: back_hight_steer 1
+    100006: back_steer_L_R
+    100008: back_wing
+    100010: back_wing 1
+    100012: back_wing 2
+    100014: back_wing1
+    100016: backpole
+    100018: backpole 1
+    100020: Backsteer_L_R
+    100022: Body
+    100024: front_up_down_steer
+    100026: front_up_down_steer 1
+    100028: frontpole
+    100030: frontpole 1
+    100032: group1
+    100034: group2
+    100036: group3
+    100038: group4
+    100040: left_wing
+    100042: left_wing 1
+    100044: motor
+    100046: motor 1
+    100048: motor1
+    100050: motor2
+    100052: motor3
+    100054: pasted__pasted__pCylinder4
+    100056: pasted__pasted__pCylinder4 1
+    100058: pasted__pCylinder3
+    100060: pasted__pCylinder3 1
+    100062: pasted__pCylinder4
+    100064: pasted__pCylinder4 1
+    100066: pCylinder3
+    100068: pCylinder3 1
+    100070: pCylinder4
+    100072: pCylinder4 1
+    100074: poles_body_wing
+    100076: poles_body_wing1
+    100078: poles_wing_wing
+    100080: poles_wing_wing1
+    100082: propellor1
+    100084: wheel
+    100086: wheel1
+    100088: wheel1 1
+    100090: wheel2
+    100092: wheel_centerpole
+    100094: wheel_centerpole 1
+    400000: //RootNode
+    400002: back_hight_steer
+    400004: back_hight_steer 1
+    400006: back_steer_L_R
+    400008: back_wing
+    400010: back_wing 1
+    400012: back_wing 2
+    400014: back_wing1
+    400016: backpole
+    400018: backpole 1
+    400020: Backsteer_L_R
+    400022: Body
+    400024: front_up_down_steer
+    400026: front_up_down_steer 1
+    400028: frontpole
+    400030: frontpole 1
+    400032: group1
+    400034: group2
+    400036: group3
+    400038: group4
+    400040: left_wing
+    400042: left_wing 1
+    400044: motor
+    400046: motor 1
+    400048: motor1
+    400050: motor2
+    400052: motor3
+    400054: pasted__pasted__pCylinder4
+    400056: pasted__pasted__pCylinder4 1
+    400058: pasted__pCylinder3
+    400060: pasted__pCylinder3 1
+    400062: pasted__pCylinder4
+    400064: pasted__pCylinder4 1
+    400066: pCylinder3
+    400068: pCylinder3 1
+    400070: pCylinder4
+    400072: pCylinder4 1
+    400074: poles_body_wing
+    400076: poles_body_wing1
+    400078: poles_wing_wing
+    400080: poles_wing_wing1
+    400082: propellor1
+    400084: wheel
+    400086: wheel1
+    400088: wheel1 1
+    400090: wheel2
+    400092: wheel_centerpole
+    400094: wheel_centerpole 1
+    2300000: back_hight_steer 1
+    2300002: back_steer_L_R
+    2300004: back_wing 1
+    2300006: back_wing 2
+    2300008: backpole
+    2300010: backpole 1
+    2300012: Body
+    2300014: front_up_down_steer
+    2300016: front_up_down_steer 1
+    2300018: frontpole
+    2300020: frontpole 1
+    2300022: left_wing
+    2300024: left_wing 1
+    2300026: motor 1
+    2300028: motor1
+    2300030: motor2
+    2300032: motor3
+    2300034: pasted__pasted__pCylinder4
+    2300036: pasted__pasted__pCylinder4 1
+    2300038: pasted__pCylinder3
+    2300040: pasted__pCylinder3 1
+    2300042: pasted__pCylinder4
+    2300044: pasted__pCylinder4 1
+    2300046: pCylinder3
+    2300048: pCylinder3 1
+    2300050: pCylinder4
+    2300052: pCylinder4 1
+    2300054: propellor1
+    2300056: wheel1
+    2300058: wheel1 1
+    2300060: wheel_centerpole
+    2300062: wheel_centerpole 1
+    3300000: back_hight_steer 1
+    3300002: back_steer_L_R
+    3300004: back_wing 1
+    3300006: back_wing 2
+    3300008: backpole
+    3300010: backpole 1
+    3300012: Body
+    3300014: front_up_down_steer
+    3300016: front_up_down_steer 1
+    3300018: frontpole
+    3300020: frontpole 1
+    3300022: left_wing
+    3300024: left_wing 1
+    3300026: motor 1
+    3300028: motor1
+    3300030: motor2
+    3300032: motor3
+    3300034: pasted__pasted__pCylinder4
+    3300036: pasted__pasted__pCylinder4 1
+    3300038: pasted__pCylinder3
+    3300040: pasted__pCylinder3 1
+    3300042: pasted__pCylinder4
+    3300044: pasted__pCylinder4 1
+    3300046: pCylinder3
+    3300048: pCylinder3 1
+    3300050: pCylinder4
+    3300052: pCylinder4 1
+    3300054: propellor1
+    3300056: wheel1
+    3300058: wheel1 1
+    3300060: wheel_centerpole
+    3300062: wheel_centerpole 1
+    4300000: propellor1
+    4300002: pasted__pCylinder3
+    4300004: pCylinder3
+    4300006: pCylinder4
+    4300008: pasted__pCylinder4
+    4300010: pasted__pasted__pCylinder4
+    4300012: Body
+    4300014: back_steer_L_R
+    4300016: back_wing
+    4300018: frontpole
+    4300020: backpole
+    4300022: wheel_centerpole
+    4300024: wheel1
+    4300026: motor
+    4300028: motor1
+    4300030: motor2
+    4300032: motor3
+    4300034: back_hight_steer
+    4300036: pCylinder4
+    4300038: pasted__pCylinder4
+    4300040: pasted__pasted__pCylinder4
+    4300042: left_wing
+    4300044: left_wing
+    4300046: pasted__pCylinder3
+    4300048: pCylinder3
+    4300050: frontpole
+    4300052: backpole
+    4300054: wheel_centerpole
+    4300056: wheel1
+    4300058: back_wing
+    4300060: front_up_down_steer
+    4300062: front_up_down_steer
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

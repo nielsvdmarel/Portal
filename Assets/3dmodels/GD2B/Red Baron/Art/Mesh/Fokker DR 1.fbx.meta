@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: ab0e0d6fed71ba845a629553f20b43e2
+timeCreated: 1493553424
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Back_Wing_Right
+    100002: BackWingTOp
+    100004: BotWing
+    100006: BotWing1
+    100008: //RootNode
+    100010: FrontPart
+    100012: L_Wheel
+    100014: L_Wheel1
+    100016: MainFrame
+    100018: Mid_Wing
+    100020: Mid_Wing1
+    100022: pCube1
+    100024: pCube2
+    100026: pCylinder2
+    100028: pCylinder3
+    100030: Pilar_Left
+    100032: Pilar_Left1
+    100034: Propellor2
+    100036: TopWing
+    100038: TopwingLeftPart
+    100040: TopwingLeftPart1
+    100042: TopwingLeftPart2
+    100044: WheelConnectionLeft
+    100046: WheelConnectionLeft1
+    100048: WheelHold
+    100050: WheelHold1
+    100052: WheelHold2
+    100054: WheelHold3
+    100056: WheelWing
+    400000: Back_Wing_Right
+    400002: BackWingTOp
+    400004: BotWing
+    400006: BotWing1
+    400008: //RootNode
+    400010: FrontPart
+    400012: L_Wheel
+    400014: L_Wheel1
+    400016: MainFrame
+    400018: Mid_Wing
+    400020: Mid_Wing1
+    400022: pCube1
+    400024: pCube2
+    400026: pCylinder2
+    400028: pCylinder3
+    400030: Pilar_Left
+    400032: Pilar_Left1
+    400034: Propellor2
+    400036: TopWing
+    400038: TopwingLeftPart
+    400040: TopwingLeftPart1
+    400042: TopwingLeftPart2
+    400044: WheelConnectionLeft
+    400046: WheelConnectionLeft1
+    400048: WheelHold
+    400050: WheelHold1
+    400052: WheelHold2
+    400054: WheelHold3
+    400056: WheelWing
+    2300000: Back_Wing_Right
+    2300002: BackWingTOp
+    2300004: BotWing
+    2300006: BotWing1
+    2300008: FrontPart
+    2300010: L_Wheel
+    2300012: L_Wheel1
+    2300014: MainFrame
+    2300016: Mid_Wing
+    2300018: Mid_Wing1
+    2300020: pCube1
+    2300022: pCube2
+    2300024: pCylinder2
+    2300026: pCylinder3
+    2300028: Pilar_Left
+    2300030: Pilar_Left1
+    2300032: Propellor2
+    2300034: TopWing
+    2300036: TopwingLeftPart
+    2300038: TopwingLeftPart1
+    2300040: TopwingLeftPart2
+    2300042: WheelConnectionLeft
+    2300044: WheelConnectionLeft1
+    2300046: WheelHold
+    2300048: WheelHold1
+    2300050: WheelHold2
+    2300052: WheelHold3
+    2300054: WheelWing
+    3300000: Back_Wing_Right
+    3300002: BackWingTOp
+    3300004: BotWing
+    3300006: BotWing1
+    3300008: FrontPart
+    3300010: L_Wheel
+    3300012: L_Wheel1
+    3300014: MainFrame
+    3300016: Mid_Wing
+    3300018: Mid_Wing1
+    3300020: pCube1
+    3300022: pCube2
+    3300024: pCylinder2
+    3300026: pCylinder3
+    3300028: Pilar_Left
+    3300030: Pilar_Left1
+    3300032: Propellor2
+    3300034: TopWing
+    3300036: TopwingLeftPart
+    3300038: TopwingLeftPart1
+    3300040: TopwingLeftPart2
+    3300042: WheelConnectionLeft
+    3300044: WheelConnectionLeft1
+    3300046: WheelHold
+    3300048: WheelHold1
+    3300050: WheelHold2
+    3300052: WheelHold3
+    3300054: WheelWing
+    4300000: TopWing
+    4300002: TopwingLeftPart
+    4300004: BackWingTOp
+    4300006: Back_Wing_Right
+    4300008: MainFrame
+    4300010: WheelWing
+    4300012: Propellor2
+    4300014: FrontPart
+    4300016: Mid_Wing
+    4300018: Mid_Wing1
+    4300020: BotWing
+    4300022: BotWing1
+    4300024: pCylinder2
+    4300026: pCube1
+    4300028: pCylinder3
+    4300030: pCube2
+    4300032: Pilar_Left
+    4300034: Pilar_Left1
+    4300036: WheelHold1
+    4300038: WheelHold
+    4300040: WheelConnectionLeft
+    4300042: L_Wheel
+    4300044: WheelHold2
+    4300046: WheelHold3
+    4300048: WheelConnectionLeft1
+    4300050: L_Wheel1
+    4300052: TopwingLeftPart2
+    4300054: TopwingLeftPart1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
