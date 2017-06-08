@@ -1,0 +1,562 @@
+fileFormatVersion: 2
+guid: 3e691a499376ab14d8ed78300b4aa368
+timeCreated: 1496865367
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Armature_001
+    100004: Armature_002
+    100006: Armature_003
+    100008: Armature_004
+    100010: Armature_005
+    100012: Armature_006
+    100014: Armature_007
+    100016: Armature_008
+    100018: Armature_009
+    100020: Armature_010
+    100022: Armature_011
+    100024: Armature_012
+    100026: Armature_013
+    100028: Armature_014
+    100030: Armature_015
+    100032: Armature_016
+    100034: Armature_017
+    100036: Armature_018
+    100038: Armature_019
+    100040: Bone
+    100042: Bone_0
+    100044: Bone_1
+    100046: Bone_10
+    100048: Bone_11
+    100050: Bone_12
+    100052: Bone_13
+    100054: Bone_14
+    100056: Bone_15
+    100058: Bone_16
+    100060: Bone_17
+    100062: Bone_18
+    100064: Bone_2
+    100066: Bone_3
+    100068: Bone_4
+    100070: Bone_5
+    100072: Bone_6
+    100074: Bone_7
+    100076: Bone_8
+    100078: Bone_9
+    100080: //RootNode
+    100082: Plane_000
+    100084: Plane_001
+    100086: Plane_002
+    100088: Plane_003
+    100090: Plane_004
+    100092: Plane_005
+    100094: Plane_006
+    100096: Plane_007
+    100098: Plane_008
+    100100: Plane_009
+    100102: Plane_010
+    100104: Plane_011
+    100106: Plane_012
+    100108: Plane_013
+    100110: Plane_014
+    100112: Plane_015
+    100114: Plane_016
+    100116: Plane_017
+    100118: Plane_018
+    100120: Plane_019
+    400000: Armature
+    400002: Armature_001
+    400004: Armature_002
+    400006: Armature_003
+    400008: Armature_004
+    400010: Armature_005
+    400012: Armature_006
+    400014: Armature_007
+    400016: Armature_008
+    400018: Armature_009
+    400020: Armature_010
+    400022: Armature_011
+    400024: Armature_012
+    400026: Armature_013
+    400028: Armature_014
+    400030: Armature_015
+    400032: Armature_016
+    400034: Armature_017
+    400036: Armature_018
+    400038: Armature_019
+    400040: Bone
+    400042: Bone_0
+    400044: Bone_1
+    400046: Bone_10
+    400048: Bone_11
+    400050: Bone_12
+    400052: Bone_13
+    400054: Bone_14
+    400056: Bone_15
+    400058: Bone_16
+    400060: Bone_17
+    400062: Bone_18
+    400064: Bone_2
+    400066: Bone_3
+    400068: Bone_4
+    400070: Bone_5
+    400072: Bone_6
+    400074: Bone_7
+    400076: Bone_8
+    400078: Bone_9
+    400080: //RootNode
+    400082: Plane_000
+    400084: Plane_001
+    400086: Plane_002
+    400088: Plane_003
+    400090: Plane_004
+    400092: Plane_005
+    400094: Plane_006
+    400096: Plane_007
+    400098: Plane_008
+    400100: Plane_009
+    400102: Plane_010
+    400104: Plane_011
+    400106: Plane_012
+    400108: Plane_013
+    400110: Plane_014
+    400112: Plane_015
+    400114: Plane_016
+    400116: Plane_017
+    400118: Plane_018
+    400120: Plane_019
+    4300000: Plane_019
+    4300002: Plane_018
+    4300004: Plane_017
+    4300006: Plane_016
+    4300008: Plane_015
+    4300010: Plane_014
+    4300012: Plane_013
+    4300014: Plane_012
+    4300016: Plane_011
+    4300018: Plane_010
+    4300020: Plane_009
+    4300022: Plane_008
+    4300024: Plane_007
+    4300026: Plane_006
+    4300028: Plane_005
+    4300030: Plane_004
+    4300032: Plane_002
+    4300034: Plane_001
+    4300036: Plane_000
+    4300038: Plane_003
+    7400000: open
+    7400002: close
+    7400004: Armature_002Action
+    7400006: Armature_003Action
+    7400008: Armature_004Action
+    7400010: Armature_005Action
+    7400012: Armature_006Action
+    7400014: Armature_007Action
+    7400016: Armature_008Action
+    7400018: Armature_009Action
+    7400020: Armature_010Action
+    7400022: Armature_011Action
+    7400024: Armature_012Action
+    7400026: Armature_013Action
+    7400028: Armature_014Action
+    7400030: Armature_015Action
+    7400032: Armature_016Action
+    7400034: Armature_017Action
+    7400036: Armature_018Action
+    7400038: Armature_019Action
+    7400040: ArmatureAction
+    7400042: Close
+    9500000: //RootNode
+    13700000: Plane_000
+    13700002: Plane_001
+    13700004: Plane_002
+    13700006: Plane_003
+    13700008: Plane_004
+    13700010: Plane_005
+    13700012: Plane_006
+    13700014: Plane_007
+    13700016: Plane_008
+    13700018: Plane_009
+    13700020: Plane_010
+    13700022: Plane_011
+    13700024: Plane_012
+    13700026: Plane_013
+    13700028: Plane_014
+    13700030: Plane_015
+    13700032: Plane_016
+    13700034: Plane_017
+    13700036: Plane_018
+    13700038: Plane_019
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: open
+      takeName: Default Take
+      firstFrame: -1
+      lastFrame: 130
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone_18
+        weight: 1
+      - path: Armature_001
+        weight: 1
+      - path: Armature_001/Bone_17
+        weight: 1
+      - path: Armature_002
+        weight: 1
+      - path: Armature_002/Bone_16
+        weight: 1
+      - path: Armature_003
+        weight: 1
+      - path: Armature_003/Bone_15
+        weight: 1
+      - path: Armature_004
+        weight: 1
+      - path: Armature_004/Bone_14
+        weight: 1
+      - path: Armature_005
+        weight: 1
+      - path: Armature_005/Bone_13
+        weight: 1
+      - path: Armature_006
+        weight: 1
+      - path: Armature_006/Bone_12
+        weight: 1
+      - path: Armature_007
+        weight: 1
+      - path: Armature_007/Bone_11
+        weight: 1
+      - path: Armature_008
+        weight: 1
+      - path: Armature_008/Bone_10
+        weight: 1
+      - path: Armature_009
+        weight: 1
+      - path: Armature_009/Bone_9
+        weight: 1
+      - path: Armature_010
+        weight: 1
+      - path: Armature_010/Bone_8
+        weight: 1
+      - path: Armature_011
+        weight: 1
+      - path: Armature_011/Bone_7
+        weight: 1
+      - path: Armature_012
+        weight: 1
+      - path: Armature_012/Bone_6
+        weight: 1
+      - path: Armature_013
+        weight: 1
+      - path: Armature_013/Bone_5
+        weight: 1
+      - path: Armature_014
+        weight: 1
+      - path: Armature_014/Bone_4
+        weight: 1
+      - path: Armature_015
+        weight: 1
+      - path: Armature_015/Bone_3
+        weight: 1
+      - path: Armature_016
+        weight: 1
+      - path: Armature_016/Bone_2
+        weight: 1
+      - path: Armature_017
+        weight: 1
+      - path: Armature_017/Bone_1
+        weight: 1
+      - path: Armature_018
+        weight: 1
+      - path: Armature_018/Bone_0
+        weight: 1
+      - path: Armature_019
+        weight: 1
+      - path: Armature_019/Bone
+        weight: 1
+      - path: Plane_000
+        weight: 1
+      - path: Plane_001
+        weight: 1
+      - path: Plane_002
+        weight: 1
+      - path: Plane_003
+        weight: 1
+      - path: Plane_004
+        weight: 1
+      - path: Plane_005
+        weight: 1
+      - path: Plane_006
+        weight: 1
+      - path: Plane_007
+        weight: 1
+      - path: Plane_008
+        weight: 1
+      - path: Plane_009
+        weight: 1
+      - path: Plane_010
+        weight: 1
+      - path: Plane_011
+        weight: 1
+      - path: Plane_012
+        weight: 1
+      - path: Plane_013
+        weight: 1
+      - path: Plane_014
+        weight: 1
+      - path: Plane_015
+        weight: 1
+      - path: Plane_016
+        weight: 1
+      - path: Plane_017
+        weight: 1
+      - path: Plane_018
+        weight: 1
+      - path: Plane_019
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Close
+      takeName: Default Take
+      firstFrame: 140
+      lastFrame: 269
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone_18
+        weight: 1
+      - path: Armature_001
+        weight: 1
+      - path: Armature_001/Bone_17
+        weight: 1
+      - path: Armature_002
+        weight: 1
+      - path: Armature_002/Bone_16
+        weight: 1
+      - path: Armature_003
+        weight: 1
+      - path: Armature_003/Bone_15
+        weight: 1
+      - path: Armature_004
+        weight: 1
+      - path: Armature_004/Bone_14
+        weight: 1
+      - path: Armature_005
+        weight: 1
+      - path: Armature_005/Bone_13
+        weight: 1
+      - path: Armature_006
+        weight: 1
+      - path: Armature_006/Bone_12
+        weight: 1
+      - path: Armature_007
+        weight: 1
+      - path: Armature_007/Bone_11
+        weight: 1
+      - path: Armature_008
+        weight: 1
+      - path: Armature_008/Bone_10
+        weight: 1
+      - path: Armature_009
+        weight: 1
+      - path: Armature_009/Bone_9
+        weight: 1
+      - path: Armature_010
+        weight: 1
+      - path: Armature_010/Bone_8
+        weight: 1
+      - path: Armature_011
+        weight: 1
+      - path: Armature_011/Bone_7
+        weight: 1
+      - path: Armature_012
+        weight: 1
+      - path: Armature_012/Bone_6
+        weight: 1
+      - path: Armature_013
+        weight: 1
+      - path: Armature_013/Bone_5
+        weight: 1
+      - path: Armature_014
+        weight: 1
+      - path: Armature_014/Bone_4
+        weight: 1
+      - path: Armature_015
+        weight: 1
+      - path: Armature_015/Bone_3
+        weight: 1
+      - path: Armature_016
+        weight: 1
+      - path: Armature_016/Bone_2
+        weight: 1
+      - path: Armature_017
+        weight: 1
+      - path: Armature_017/Bone_1
+        weight: 1
+      - path: Armature_018
+        weight: 1
+      - path: Armature_018/Bone_0
+        weight: 1
+      - path: Armature_019
+        weight: 1
+      - path: Armature_019/Bone
+        weight: 1
+      - path: Plane_000
+        weight: 1
+      - path: Plane_001
+        weight: 1
+      - path: Plane_002
+        weight: 1
+      - path: Plane_003
+        weight: 1
+      - path: Plane_004
+        weight: 1
+      - path: Plane_005
+        weight: 1
+      - path: Plane_006
+        weight: 1
+      - path: Plane_007
+        weight: 1
+      - path: Plane_008
+        weight: 1
+      - path: Plane_009
+        weight: 1
+      - path: Plane_010
+        weight: 1
+      - path: Plane_011
+        weight: 1
+      - path: Plane_012
+        weight: 1
+      - path: Plane_013
+        weight: 1
+      - path: Plane_014
+        weight: 1
+      - path: Plane_015
+        weight: 1
+      - path: Plane_016
+        weight: 1
+      - path: Plane_017
+        weight: 1
+      - path: Plane_018
+        weight: 1
+      - path: Plane_019
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
