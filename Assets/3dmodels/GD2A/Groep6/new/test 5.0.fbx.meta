@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: b7d6b8277ec9b714f88772f11fb63f48
+timeCreated: 1496399393
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: hands_one_hand:hand_left_mesh
+    100002: hands_one_hand:joint1
+    100004: hands_one_hand:joint10
+    100006: hands_one_hand:joint11
+    100008: hands_one_hand:joint12
+    100010: hands_one_hand:joint13
+    100012: hands_one_hand:joint14
+    100014: hands_one_hand:joint15
+    100016: hands_one_hand:joint16
+    100018: hands_one_hand:joint17
+    100020: hands_one_hand:joint18
+    100022: hands_one_hand:joint19
+    100024: hands_one_hand:joint2
+    100026: hands_one_hand:joint20
+    100028: hands_one_hand:joint21
+    100030: hands_one_hand:joint22
+    100032: hands_one_hand:joint3
+    100034: hands_one_hand:joint4
+    100036: hands_one_hand:joint5
+    100038: hands_one_hand:joint6
+    100040: hands_one_hand:joint7
+    100042: hands_one_hand:joint8
+    100044: hands_one_hand:joint9
+    100046: hands_one_hand:locator_left
+    100048: //RootNode
+    400000: hands_one_hand:hand_left_mesh
+    400002: hands_one_hand:joint1
+    400004: hands_one_hand:joint10
+    400006: hands_one_hand:joint11
+    400008: hands_one_hand:joint12
+    400010: hands_one_hand:joint13
+    400012: hands_one_hand:joint14
+    400014: hands_one_hand:joint15
+    400016: hands_one_hand:joint16
+    400018: hands_one_hand:joint17
+    400020: hands_one_hand:joint18
+    400022: hands_one_hand:joint19
+    400024: hands_one_hand:joint2
+    400026: hands_one_hand:joint20
+    400028: hands_one_hand:joint21
+    400030: hands_one_hand:joint22
+    400032: hands_one_hand:joint3
+    400034: hands_one_hand:joint4
+    400036: hands_one_hand:joint5
+    400038: hands_one_hand:joint6
+    400040: hands_one_hand:joint7
+    400042: hands_one_hand:joint8
+    400044: hands_one_hand:joint9
+    400046: hands_one_hand:locator_left
+    400048: //RootNode
+    4300000: hands_one_hand:hand_left_mesh
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: hands_one_hand:hand_left_mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,286 @@
+fileFormatVersion: 2
+guid: c208ed818a069444699f9d2820a62831
+timeCreated: 1493882936
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: group2_pCube3
+    100004: Skinbind_test___kopie:ALL_COTNRL
+    100006: Skinbind_test___kopie:Body
+    100008: Skinbind_test___kopie:Chest_Ctrl
+    100010: Skinbind_test___kopie:DO_NOT_TOTCH
+    100012: Skinbind_test___kopie:group2
+    100014: Skinbind_test___kopie:Head
+    100016: Skinbind_test___kopie:Head 1
+    100018: Skinbind_test___kopie:Head_ctrl
+    100020: Skinbind_test___kopie:HIp
+    100022: Skinbind_test___kopie:Hip_ctrl
+    100024: Skinbind_test___kopie:Jaw
+    100026: Skinbind_test___kopie:Join_1
+    100028: Skinbind_test___kopie:Join_1 1
+    100030: Skinbind_test___kopie:joint10
+    100032: Skinbind_test___kopie:joint10 1
+    100034: Skinbind_test___kopie:joint11
+    100036: Skinbind_test___kopie:joint11 1
+    100038: Skinbind_test___kopie:joint14
+    100040: Skinbind_test___kopie:joint18
+    100042: Skinbind_test___kopie:joint2
+    100044: Skinbind_test___kopie:joint2 1
+    100046: Skinbind_test___kopie:joint2 2
+    100048: Skinbind_test___kopie:joint2 3
+    100050: Skinbind_test___kopie:joint2 4
+    100052: Skinbind_test___kopie:joint2 5
+    100054: Skinbind_test___kopie:joint20
+    100056: Skinbind_test___kopie:joint20 1
+    100058: Skinbind_test___kopie:joint3
+    100060: Skinbind_test___kopie:joint3 1
+    100062: Skinbind_test___kopie:joint3 2
+    100064: Skinbind_test___kopie:joint3 3
+    100066: Skinbind_test___kopie:joint3 4
+    100068: Skinbind_test___kopie:joint3 5
+    100070: Skinbind_test___kopie:joint7
+    100072: Skinbind_test___kopie:joint7 1
+    100074: Skinbind_test___kopie:joint8
+    100076: Skinbind_test___kopie:joint8 1
+    100078: Skinbind_test___kopie:L_Colourbone
+    100080: Skinbind_test___kopie:L_colourbone
+    100082: Skinbind_test___kopie:L_ear
+    100084: Skinbind_test___kopie:L_elow
+    100086: Skinbind_test___kopie:L_enkle
+    100088: Skinbind_test___kopie:L_hand_group
+    100090: Skinbind_test___kopie:L_Hip
+    100092: Skinbind_test___kopie:L_index_finger
+    100094: Skinbind_test___kopie:L_Knee
+    100096: Skinbind_test___kopie:L_middle_finger
+    100098: Skinbind_test___kopie:L_pinky_finger
+    100100: Skinbind_test___kopie:L_ring__finger
+    100102: Skinbind_test___kopie:L_Shoulder
+    100104: Skinbind_test___kopie:L_thumb
+    100106: Skinbind_test___kopie:L_wrist
+    100108: Skinbind_test___kopie:Mesh
+    100110: Skinbind_test___kopie:Mesh 1
+    100112: Skinbind_test___kopie:Middle
+    100114: Skinbind_test___kopie:Middle_ctrl
+    100116: Skinbind_test___kopie:Neck
+    100118: Skinbind_test___kopie:pasted__Head1
+    100120: Skinbind_test___kopie:pasted__L_eye
+    100122: Skinbind_test___kopie:pasted__Mouth_down
+    100124: Skinbind_test___kopie:pasted__Mouth_up
+    100126: Skinbind_test___kopie:pasted__R_eye
+    100128: Skinbind_test___kopie:R_Colourbone
+    100130: Skinbind_test___kopie:R_colourbone
+    100132: Skinbind_test___kopie:R_ear
+    100134: Skinbind_test___kopie:R_elow
+    100136: Skinbind_test___kopie:R_enkle
+    100138: Skinbind_test___kopie:R_hand_group
+    100140: Skinbind_test___kopie:R_Hip
+    100142: Skinbind_test___kopie:R_index_finger
+    100144: Skinbind_test___kopie:R_Knee
+    100146: Skinbind_test___kopie:R_middle_finger
+    100148: Skinbind_test___kopie:R_pinky_finger
+    100150: Skinbind_test___kopie:R_ring__finger
+    100152: Skinbind_test___kopie:R_Shoulder
+    100154: Skinbind_test___kopie:R_thumb
+    100156: Skinbind_test___kopie:R_wrist
+    100158: Skinbind_test___kopie:Tail_1
+    100160: Skinbind_test___kopie:Tail_2
+    100162: Skinbind_test___kopie:Tail_3
+    100164: Skinbind_test___kopie:Tail_4
+    100166: Skinbind_test___kopie:Tail_5
+    100168: Skinbind_test___kopie:Tail_6
+    100170: Skinbind_test___kopie:Tail_7
+    100172: Skinbind_test___kopie:Tail_base
+    100174: Skinbind_test___kopie:Tail_curve
+    100176: Skinbind_test___kopie:Tail_end
+    100178: Skinbind_test___kopie:Tail_end_ctrl
+    100180: Skinbind_test___kopie:Tail_ikhandle
+    100182: Skinbind_test___kopie:Tail_midde
+    100184: Skinbind_test___kopie:Tail_middle_ctrl
+    100186: Skinbind_test___kopie:Toe
+    100188: Skinbind_test___kopie:Toe 1
+    400000: //RootNode
+    400002: group2_pCube3
+    400004: Skinbind_test___kopie:ALL_COTNRL
+    400006: Skinbind_test___kopie:Body
+    400008: Skinbind_test___kopie:Chest_Ctrl
+    400010: Skinbind_test___kopie:DO_NOT_TOTCH
+    400012: Skinbind_test___kopie:group2
+    400014: Skinbind_test___kopie:Head
+    400016: Skinbind_test___kopie:Head 1
+    400018: Skinbind_test___kopie:Head_ctrl
+    400020: Skinbind_test___kopie:HIp
+    400022: Skinbind_test___kopie:Hip_ctrl
+    400024: Skinbind_test___kopie:Jaw
+    400026: Skinbind_test___kopie:Join_1
+    400028: Skinbind_test___kopie:Join_1 1
+    400030: Skinbind_test___kopie:joint10
+    400032: Skinbind_test___kopie:joint10 1
+    400034: Skinbind_test___kopie:joint11
+    400036: Skinbind_test___kopie:joint11 1
+    400038: Skinbind_test___kopie:joint14
+    400040: Skinbind_test___kopie:joint18
+    400042: Skinbind_test___kopie:joint2
+    400044: Skinbind_test___kopie:joint2 1
+    400046: Skinbind_test___kopie:joint2 2
+    400048: Skinbind_test___kopie:joint2 3
+    400050: Skinbind_test___kopie:joint2 4
+    400052: Skinbind_test___kopie:joint2 5
+    400054: Skinbind_test___kopie:joint20
+    400056: Skinbind_test___kopie:joint20 1
+    400058: Skinbind_test___kopie:joint3
+    400060: Skinbind_test___kopie:joint3 1
+    400062: Skinbind_test___kopie:joint3 2
+    400064: Skinbind_test___kopie:joint3 3
+    400066: Skinbind_test___kopie:joint3 4
+    400068: Skinbind_test___kopie:joint3 5
+    400070: Skinbind_test___kopie:joint7
+    400072: Skinbind_test___kopie:joint7 1
+    400074: Skinbind_test___kopie:joint8
+    400076: Skinbind_test___kopie:joint8 1
+    400078: Skinbind_test___kopie:L_Colourbone
+    400080: Skinbind_test___kopie:L_colourbone
+    400082: Skinbind_test___kopie:L_ear
+    400084: Skinbind_test___kopie:L_elow
+    400086: Skinbind_test___kopie:L_enkle
+    400088: Skinbind_test___kopie:L_hand_group
+    400090: Skinbind_test___kopie:L_Hip
+    400092: Skinbind_test___kopie:L_index_finger
+    400094: Skinbind_test___kopie:L_Knee
+    400096: Skinbind_test___kopie:L_middle_finger
+    400098: Skinbind_test___kopie:L_pinky_finger
+    400100: Skinbind_test___kopie:L_ring__finger
+    400102: Skinbind_test___kopie:L_Shoulder
+    400104: Skinbind_test___kopie:L_thumb
+    400106: Skinbind_test___kopie:L_wrist
+    400108: Skinbind_test___kopie:Mesh
+    400110: Skinbind_test___kopie:Mesh 1
+    400112: Skinbind_test___kopie:Middle
+    400114: Skinbind_test___kopie:Middle_ctrl
+    400116: Skinbind_test___kopie:Neck
+    400118: Skinbind_test___kopie:pasted__Head1
+    400120: Skinbind_test___kopie:pasted__L_eye
+    400122: Skinbind_test___kopie:pasted__Mouth_down
+    400124: Skinbind_test___kopie:pasted__Mouth_up
+    400126: Skinbind_test___kopie:pasted__R_eye
+    400128: Skinbind_test___kopie:R_Colourbone
+    400130: Skinbind_test___kopie:R_colourbone
+    400132: Skinbind_test___kopie:R_ear
+    400134: Skinbind_test___kopie:R_elow
+    400136: Skinbind_test___kopie:R_enkle
+    400138: Skinbind_test___kopie:R_hand_group
+    400140: Skinbind_test___kopie:R_Hip
+    400142: Skinbind_test___kopie:R_index_finger
+    400144: Skinbind_test___kopie:R_Knee
+    400146: Skinbind_test___kopie:R_middle_finger
+    400148: Skinbind_test___kopie:R_pinky_finger
+    400150: Skinbind_test___kopie:R_ring__finger
+    400152: Skinbind_test___kopie:R_Shoulder
+    400154: Skinbind_test___kopie:R_thumb
+    400156: Skinbind_test___kopie:R_wrist
+    400158: Skinbind_test___kopie:Tail_1
+    400160: Skinbind_test___kopie:Tail_2
+    400162: Skinbind_test___kopie:Tail_3
+    400164: Skinbind_test___kopie:Tail_4
+    400166: Skinbind_test___kopie:Tail_5
+    400168: Skinbind_test___kopie:Tail_6
+    400170: Skinbind_test___kopie:Tail_7
+    400172: Skinbind_test___kopie:Tail_base
+    400174: Skinbind_test___kopie:Tail_curve
+    400176: Skinbind_test___kopie:Tail_end
+    400178: Skinbind_test___kopie:Tail_end_ctrl
+    400180: Skinbind_test___kopie:Tail_ikhandle
+    400182: Skinbind_test___kopie:Tail_midde
+    400184: Skinbind_test___kopie:Tail_middle_ctrl
+    400186: Skinbind_test___kopie:Toe
+    400188: Skinbind_test___kopie:Toe 1
+    2300000: group2_pCube3
+    2300002: Skinbind_test___kopie:pasted__L_eye
+    2300004: Skinbind_test___kopie:pasted__Mouth_down
+    2300006: Skinbind_test___kopie:pasted__Mouth_up
+    2300008: Skinbind_test___kopie:pasted__R_eye
+    3300000: group2_pCube3
+    3300002: Skinbind_test___kopie:pasted__L_eye
+    3300004: Skinbind_test___kopie:pasted__Mouth_down
+    3300006: Skinbind_test___kopie:pasted__Mouth_up
+    3300008: Skinbind_test___kopie:pasted__R_eye
+    4300000: Skinbind_test___kopie:pasted__Mouth_up
+    4300002: Skinbind_test___kopie:pasted__Mouth_down
+    4300004: Skinbind_test___kopie:pasted__L_eye
+    4300006: Skinbind_test___kopie:pasted__R_eye
+    4300008: Skinbind_test___kopie:Body
+    4300010: Skinbind_test___kopie:Head
+    4300012: group2_pCube3
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Skinbind_test___kopie:Body
+    13700002: Skinbind_test___kopie:Head 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
